@@ -1,5 +1,5 @@
-Hi 👋 My name is Call me KidiX
-==============================
+Hi 👋 You can just call me KidiX
+=================================
 
 Web and Desktop Developer
 -------------------------
