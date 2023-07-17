@@ -8,7 +8,6 @@ I'm a beginner in programming, so I'm still in the learning stage to get better.
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [kidixdev@gmail.com](mailto:kidixdev@gmail.com)
-* 🚀  I'm currently working on [Track My Playtime](http://trackmyplaytime.netlify.app/)
 
 ### Skills
 
