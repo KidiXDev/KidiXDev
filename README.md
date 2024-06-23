@@ -32,8 +32,6 @@ I'm a beginner in programming, so I'm still in the learning stage to get better.
 
 <p align="left"> <a href="https://discord.com/users/kidix.ntsc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/KidiXDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
-### Badges
-
 <b>My GitHub Stats</b>
 
 ![KidiXDev Stats](https://github-readme-stats.vercel.app/api?username=kidixdev\&rank_icon=github\&show_icons=true\&theme=radical)
@@ -41,6 +39,8 @@ I'm a beginner in programming, so I'm still in the learning stage to get better.
 <a href="http://www.github.com/KidiXDev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KidiXDev&stroke=ffffff&background=581c87&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/KidiXDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KidiXDev&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+![My Programming Stats](https://github-readme-stats.vercel.app/api/wakatime?username=KidiXDev&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 
 <b>Top Repositories</b>
 
