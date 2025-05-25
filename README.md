@@ -36,6 +36,8 @@ I'm a beginner in programming, so I'm still in the learning stage to get better.
 
 <div width="100%" align="center"><a href="https://github.com/KidiXDev/TrackMyPlaytime" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KidiXDev&repo=TrackMyPlaytime&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+<div width="100%" align="center"><a href="[[https://github.com/KidiXDev/TrackMyPlaytime](https://github.com/voltz-team/voltz)](https://github.com/voltz-team/voltz)" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=voltz-team&repo=voltz&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/kidixdev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
