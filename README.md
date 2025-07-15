@@ -1,9 +1,6 @@
 Hi 👋 You can just call me KidiX
 =================================
 
-I'm a beginner in programming, so I'm still in the learning stage to get better.
-> Currently foccused on mobile programming with Flutter
-
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [kidixdev@gmail.com](mailto:kidixdev@gmail.com)
 
