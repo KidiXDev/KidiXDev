@@ -115,12 +115,9 @@ If you find my work useful, a coffee keeps the code flowing!
 
 </div>
 
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=KidiXDev&color=A855F7&style=flat-square&label=Profile+Views)
-
-*"First, solve the problem. Then, write the code."*
+<h3 align="center">Visitors (Since 2026/05/04)</h3>
+<p align="center">
+	<img src="https://count.getloli.com/get/@KidiXDev?theme=moebooru"> <br/>
+</p>
 
 </div>
